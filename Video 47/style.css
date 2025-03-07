@@ -1,0 +1,88 @@
+.logo img {
+    width: 10px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Segoe UI;
+}
+
+.right ul {
+    display: flex;
+    gap: 24px;
+}
+
+.right ul li {
+    list-style: none;
+    display: flex;
+    align-items: cente1;
+}
+
+.right ul li span {
+    padding: 0 5px;
+}
+.first {
+    display: flex;
+    margin: 70px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    gap: 23px;
+}
+
+.first span {
+    font-size: 40px;
+}
+
+.first p {
+    font-size: 23px;
+    width: 44vw;
+    text-align: center;
+}
+.button{
+   background-color: green;
+   color:white;
+   border: none;
+   padding: 6px 10px;
+   border-radius: 4px;
+
+
+}
+.green
+{
+    background-color: rgb(18, 116, 154);
+}
+
+.first button {
+    background-color: #00b6d1;
+    padding: 14px 16px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: 700;
+}
+
+.flex {
+    display: flex;
+}
+
+.small {
+    font-size: 12px;
+}
+
+ .second {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+.item{
+    padding: 23px;
+    background-color: #d2e4f0;
+    border-radius: 12px;
+}
